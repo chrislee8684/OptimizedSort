@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chrislee/CLionProjects/DSA1_Project2_Final/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+list
+-
+vector
+-
+string
+-
+algorithm
+-
+ctime
+-
+cmath
+-
+cstring
+-
+cctype
+-
+cstdlib
+-
+unordered_map
+-
+iterator
+-
+
